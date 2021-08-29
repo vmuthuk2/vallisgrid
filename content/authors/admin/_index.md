@@ -11,16 +11,16 @@ role: PhD Canditate in Electrical Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: North Carolina State University
-  url: https://www.stanford.edu/
+  url: https://https://www.freedm.ncsu.edu/people/valliappan-muthukaruppan/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Smart Grid Optimization and Control, Smart Meter Data Analytics.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Smart Distribution System
+- Smart Meter Data Analytics
+- Mathematical Optimization
 
 # Education to show in About widget
 education:
